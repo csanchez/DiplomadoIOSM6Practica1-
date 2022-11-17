@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "00F62109-79F4-4504-B976-A90692391418"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAC346D4-0C75-4583-9E19-DD75900D078A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Animations/LoaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init?(coder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAC346D4-0C75-4583-9E19-DD75900D078A - 4aaa31423236e05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Animations.LoaderView.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Animations.LoaderView&gt;"
+                  moduleName = "Animations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecnologiasiis/XcodeProjects/diplomado-ejemplos/Animations/Animations/LoaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "EAC346D4-0C75-4583-9E19-DD75900D078A - 1cd8ace254c6bef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Animations.LoaderView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Animations.LoaderView&gt;"
+                  moduleName = "Animations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tecnologiasiis/XcodeProjects/diplomado-ejemplos/Animations/Animations/LoaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "83">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
